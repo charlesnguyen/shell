@@ -1,0 +1,9 @@
+{
+  "availableApps": [
+    {
+      "name": "ais",
+      "path": "http://localhost:8236/ais-pis.js",
+      "link": "apps/accounts"
+    }
+  ]
+}
